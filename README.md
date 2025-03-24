@@ -34,12 +34,12 @@ WebAPIQuanLyNhungMonQua/
 ```
 
 ## 🔑 Chức năng chính
-✅ **Quản lý những món quà**: Tạo mới, cập nhật và xóa những món quà chính, quà khuyến mãi; Thiết lập quà khuyến mãi kèm theo quà chính.
-✅ **Tính năng phát quà**: Phát quà chính khi còn quà khuyến mãi, phát quà chính khi hết quà khuyến mãi, tự động phát quà theo ngày chọn trước. 
-✅ **Tính năng mua quà và xem lịch sử mua quà**: Cho phép người dùng mua quà bằng xu, xem lịch sử quà đã mua trước đó
-✅ **Quản lý người dùng**: Xác thực, phân quyền, quản lý thông tin người dùng   
-✅ **Bảng xếp hạng mua quà hàng tháng**: Cho phép xem bảng xếp hạng hàng tháng theo điểm tích lũy khi mua quà 
-✅ **Xác thực & Phân quyền**
+✅ **Quản lý những món quà**: Tạo mới, cập nhật và xóa những món quà chính, quà khuyến mãi; Thiết lập quà khuyến mãi kèm theo quà chính.      
+✅ **Tính năng phát quà**: Phát quà chính khi còn quà khuyến mãi, phát quà chính khi hết quà khuyến mãi, tự động phát quà theo ngày chọn trước.    
+✅ **Tính năng mua quà và xem lịch sử mua quà**: Cho phép người dùng mua quà bằng xu, xem lịch sử quà đã mua trước đó      
+✅ **Quản lý người dùng**: Xác thực, phân quyền, quản lý thông tin người dùng        
+✅ **Bảng xếp hạng mua quà hàng tháng**: Cho phép xem bảng xếp hạng hàng tháng theo điểm tích lũy khi mua quà           
+✅ **Xác thực & Phân quyền**     
 
 ## 📚 API Documentation
 Sử dụng **Postman** để kiểm thử API
