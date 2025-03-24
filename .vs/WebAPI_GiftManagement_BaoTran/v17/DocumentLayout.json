@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\_00.WORK\\GITHUBTAM\\UserManagament-\\WebManagement_Lan2_BaoTran\\WebAPI_GiftManagement_BaoTran\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{172725CB-1F06-4A63-A014-CC9DF59BF6F6}|WebAPI_GiftManagement_BaoTran\\WebAPI_GiftManagement_BaoTran.csproj|d:\\_00.work\\githubtam\\usermanagament-\\webmanagement_lan2_baotran\\webapi_giftmanagement_baotran\\webapi_giftmanagement_baotran\\services\\rankingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{172725CB-1F06-4A63-A014-CC9DF59BF6F6}|WebAPI_GiftManagement_BaoTran\\WebAPI_GiftManagement_BaoTran.csproj|solutionrelative:webapi_giftmanagement_baotran\\services\\rankingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{172725CB-1F06-4A63-A014-CC9DF59BF6F6}|WebAPI_GiftManagement_BaoTran\\WebAPI_GiftManagement_BaoTran.csproj|d:\\_00.work\\githubtam\\usermanagament-\\webmanagement_lan2_baotran\\webapi_giftmanagement_baotran\\webapi_giftmanagement_baotran\\data\\rankinguser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{172725CB-1F06-4A63-A014-CC9DF59BF6F6}|WebAPI_GiftManagement_BaoTran\\WebAPI_GiftManagement_BaoTran.csproj|solutionrelative:webapi_giftmanagement_baotran\\data\\rankinguser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{172725CB-1F06-4A63-A014-CC9DF59BF6F6}|WebAPI_GiftManagement_BaoTran\\WebAPI_GiftManagement_BaoTran.csproj|d:\\_00.work\\githubtam\\usermanagament-\\webmanagement_lan2_baotran\\webapi_giftmanagement_baotran\\webapi_giftmanagement_baotran\\controllers\\rankingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{172725CB-1F06-4A63-A014-CC9DF59BF6F6}|WebAPI_GiftManagement_BaoTran\\WebAPI_GiftManagement_BaoTran.csproj|solutionrelative:webapi_giftmanagement_baotran\\controllers\\rankingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{172725CB-1F06-4A63-A014-CC9DF59BF6F6}|WebAPI_GiftManagement_BaoTran\\WebAPI_GiftManagement_BaoTran.csproj|d:\\_00.work\\githubtam\\usermanagament-\\webmanagement_lan2_baotran\\webapi_giftmanagement_baotran\\webapi_giftmanagement_baotran\\data\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{172725CB-1F06-4A63-A014-CC9DF59BF6F6}|WebAPI_GiftManagement_BaoTran\\WebAPI_GiftManagement_BaoTran.csproj|solutionrelative:webapi_giftmanagement_baotran\\data\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{172725CB-1F06-4A63-A014-CC9DF59BF6F6}|WebAPI_GiftManagement_BaoTran\\WebAPI_GiftManagement_BaoTran.csproj|d:\\_00.work\\githubtam\\usermanagament-\\webmanagement_lan2_baotran\\webapi_giftmanagement_baotran\\webapi_giftmanagement_baotran\\services\\transactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{172725CB-1F06-4A63-A014-CC9DF59BF6F6}|WebAPI_GiftManagement_BaoTran\\WebAPI_GiftManagement_BaoTran.csproj|solutionrelative:webapi_giftmanagement_baotran\\services\\transactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{172725CB-1F06-4A63-A014-CC9DF59BF6F6}|WebAPI_GiftManagement_BaoTran\\WebAPI_GiftManagement_BaoTran.csproj|d:\\_00.work\\githubtam\\usermanagament-\\webmanagement_lan2_baotran\\webapi_giftmanagement_baotran\\webapi_giftmanagement_baotran\\data\\rankings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{172725CB-1F06-4A63-A014-CC9DF59BF6F6}|WebAPI_GiftManagement_BaoTran\\WebAPI_GiftManagement_BaoTran.csproj|solutionrelative:webapi_giftmanagement_baotran\\data\\rankings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{172725CB-1F06-4A63-A014-CC9DF59BF6F6}|WebAPI_GiftManagement_BaoTran\\WebAPI_GiftManagement_BaoTran.csproj|d:\\_00.work\\githubtam\\usermanagament-\\webmanagement_lan2_baotran\\webapi_giftmanagement_baotran\\webapi_giftmanagement_baotran\\services\\giftservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{172725CB-1F06-4A63-A014-CC9DF59BF6F6}|WebAPI_GiftManagement_BaoTran\\WebAPI_GiftManagement_BaoTran.csproj|solutionrelative:webapi_giftmanagement_baotran\\services\\giftservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{172725CB-1F06-4A63-A014-CC9DF59BF6F6}|WebAPI_GiftManagement_BaoTran\\WebAPI_GiftManagement_BaoTran.csproj|d:\\_00.work\\githubtam\\usermanagament-\\webmanagement_lan2_baotran\\webapi_giftmanagement_baotran\\webapi_giftmanagement_baotran\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{172725CB-1F06-4A63-A014-CC9DF59BF6F6}|WebAPI_GiftManagement_BaoTran\\WebAPI_GiftManagement_BaoTran.csproj|solutionrelative:webapi_giftmanagement_baotran\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{172725CB-1F06-4A63-A014-CC9DF59BF6F6}|WebAPI_GiftManagement_BaoTran\\WebAPI_GiftManagement_BaoTran.csproj|d:\\_00.work\\githubtam\\usermanagament-\\webmanagement_lan2_baotran\\webapi_giftmanagement_baotran\\webapi_giftmanagement_baotran\\services\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{172725CB-1F06-4A63-A014-CC9DF59BF6F6}|WebAPI_GiftManagement_BaoTran\\WebAPI_GiftManagement_BaoTran.csproj|solutionrelative:webapi_giftmanagement_baotran\\services\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{172725CB-1F06-4A63-A014-CC9DF59BF6F6}|WebAPI_GiftManagement_BaoTran\\WebAPI_GiftManagement_BaoTran.csproj|d:\\_00.work\\githubtam\\usermanagament-\\webmanagement_lan2_baotran\\webapi_giftmanagement_baotran\\webapi_giftmanagement_baotran\\controllers\\permissioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{172725CB-1F06-4A63-A014-CC9DF59BF6F6}|WebAPI_GiftManagement_BaoTran\\WebAPI_GiftManagement_BaoTran.csproj|solutionrelative:webapi_giftmanagement_baotran\\controllers\\permissioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{172725CB-1F06-4A63-A014-CC9DF59BF6F6}|WebAPI_GiftManagement_BaoTran\\WebAPI_GiftManagement_BaoTran.csproj|d:\\_00.work\\githubtam\\usermanagament-\\webmanagement_lan2_baotran\\webapi_giftmanagement_baotran\\webapi_giftmanagement_baotran\\controllers\\giftcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{172725CB-1F06-4A63-A014-CC9DF59BF6F6}|WebAPI_GiftManagement_BaoTran\\WebAPI_GiftManagement_BaoTran.csproj|solutionrelative:webapi_giftmanagement_baotran\\controllers\\giftcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{172725CB-1F06-4A63-A014-CC9DF59BF6F6}|WebAPI_GiftManagement_BaoTran\\WebAPI_GiftManagement_BaoTran.csproj|d:\\_00.work\\githubtam\\usermanagament-\\webmanagement_lan2_baotran\\webapi_giftmanagement_baotran\\webapi_giftmanagement_baotran\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{172725CB-1F06-4A63-A014-CC9DF59BF6F6}|WebAPI_GiftManagement_BaoTran\\WebAPI_GiftManagement_BaoTran.csproj|solutionrelative:webapi_giftmanagement_baotran\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{172725CB-1F06-4A63-A014-CC9DF59BF6F6}|WebAPI_GiftManagement_BaoTran\\WebAPI_GiftManagement_BaoTran.csproj|d:\\_00.work\\githubtam\\usermanagament-\\webmanagement_lan2_baotran\\webapi_giftmanagement_baotran\\webapi_giftmanagement_baotran\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{172725CB-1F06-4A63-A014-CC9DF59BF6F6}|WebAPI_GiftManagement_BaoTran\\WebAPI_GiftManagement_BaoTran.csproj|solutionrelative:webapi_giftmanagement_baotran\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TransactionService.cs",
+              "DocumentMoniker": "D:\\_00.WORK\\GITHUBTAM\\UserManagament-\\WebManagement_Lan2_BaoTran\\WebAPI_GiftManagement_BaoTran\\WebAPI_GiftManagement_BaoTran\\Services\\TransactionService.cs",
+              "RelativeDocumentMoniker": "WebAPI_GiftManagement_BaoTran\\Services\\TransactionService.cs",
+              "ToolTip": "D:\\_00.WORK\\GITHUBTAM\\UserManagament-\\WebManagement_Lan2_BaoTran\\WebAPI_GiftManagement_BaoTran\\WebAPI_GiftManagement_BaoTran\\Services\\TransactionService.cs",
+              "RelativeToolTip": "WebAPI_GiftManagement_BaoTran\\Services\\TransactionService.cs",
+              "ViewState": "AQIAAOwAAAAAAAAAAAAwwAsBAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T03:12:42.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RankingService.cs",
+              "DocumentMoniker": "D:\\_00.WORK\\GITHUBTAM\\UserManagament-\\WebManagement_Lan2_BaoTran\\WebAPI_GiftManagement_BaoTran\\WebAPI_GiftManagement_BaoTran\\Services\\RankingService.cs",
+              "RelativeDocumentMoniker": "WebAPI_GiftManagement_BaoTran\\Services\\RankingService.cs",
+              "ToolTip": "D:\\_00.WORK\\GITHUBTAM\\UserManagament-\\WebManagement_Lan2_BaoTran\\WebAPI_GiftManagement_BaoTran\\WebAPI_GiftManagement_BaoTran\\Services\\RankingService.cs",
+              "RelativeToolTip": "WebAPI_GiftManagement_BaoTran\\Services\\RankingService.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAmwD8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T07:35:18.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RankingUser.cs",
+              "DocumentMoniker": "D:\\_00.WORK\\GITHUBTAM\\UserManagament-\\WebManagement_Lan2_BaoTran\\WebAPI_GiftManagement_BaoTran\\WebAPI_GiftManagement_BaoTran\\Data\\RankingUser.cs",
+              "RelativeDocumentMoniker": "WebAPI_GiftManagement_BaoTran\\Data\\RankingUser.cs",
+              "ToolTip": "D:\\_00.WORK\\GITHUBTAM\\UserManagament-\\WebManagement_Lan2_BaoTran\\WebAPI_GiftManagement_BaoTran\\WebAPI_GiftManagement_BaoTran\\Data\\RankingUser.cs",
+              "RelativeToolTip": "WebAPI_GiftManagement_BaoTran\\Data\\RankingUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T08:39:21.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "D:\\_00.WORK\\GITHUBTAM\\UserManagament-\\WebManagement_Lan2_BaoTran\\WebAPI_GiftManagement_BaoTran\\WebAPI_GiftManagement_BaoTran\\Data\\Transaction.cs",
+              "RelativeDocumentMoniker": "WebAPI_GiftManagement_BaoTran\\Data\\Transaction.cs",
+              "ToolTip": "D:\\_00.WORK\\GITHUBTAM\\UserManagament-\\WebManagement_Lan2_BaoTran\\WebAPI_GiftManagement_BaoTran\\WebAPI_GiftManagement_BaoTran\\Data\\Transaction.cs",
+              "RelativeToolTip": "WebAPI_GiftManagement_BaoTran\\Data\\Transaction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T07:25:55.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RankingController.cs",
+              "DocumentMoniker": "D:\\_00.WORK\\GITHUBTAM\\UserManagament-\\WebManagement_Lan2_BaoTran\\WebAPI_GiftManagement_BaoTran\\WebAPI_GiftManagement_BaoTran\\Controllers\\RankingController.cs",
+              "RelativeDocumentMoniker": "WebAPI_GiftManagement_BaoTran\\Controllers\\RankingController.cs",
+              "ToolTip": "D:\\_00.WORK\\GITHUBTAM\\UserManagament-\\WebManagement_Lan2_BaoTran\\WebAPI_GiftManagement_BaoTran\\WebAPI_GiftManagement_BaoTran\\Controllers\\RankingController.cs",
+              "RelativeToolTip": "WebAPI_GiftManagement_BaoTran\\Controllers\\RankingController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T08:34:38.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Rankings.cs",
+              "DocumentMoniker": "D:\\_00.WORK\\GITHUBTAM\\UserManagament-\\WebManagement_Lan2_BaoTran\\WebAPI_GiftManagement_BaoTran\\WebAPI_GiftManagement_BaoTran\\Data\\Rankings.cs",
+              "RelativeDocumentMoniker": "WebAPI_GiftManagement_BaoTran\\Data\\Rankings.cs",
+              "ToolTip": "D:\\_00.WORK\\GITHUBTAM\\UserManagament-\\WebManagement_Lan2_BaoTran\\WebAPI_GiftManagement_BaoTran\\WebAPI_GiftManagement_BaoTran\\Data\\Rankings.cs",
+              "RelativeToolTip": "WebAPI_GiftManagement_BaoTran\\Data\\Rankings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T08:55:37.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GiftService.cs",
+              "DocumentMoniker": "D:\\_00.WORK\\GITHUBTAM\\UserManagament-\\WebManagement_Lan2_BaoTran\\WebAPI_GiftManagement_BaoTran\\WebAPI_GiftManagement_BaoTran\\Services\\GiftService.cs",
+              "RelativeDocumentMoniker": "WebAPI_GiftManagement_BaoTran\\Services\\GiftService.cs",
+              "ToolTip": "D:\\_00.WORK\\GITHUBTAM\\UserManagament-\\WebManagement_Lan2_BaoTran\\WebAPI_GiftManagement_BaoTran\\WebAPI_GiftManagement_BaoTran\\Services\\GiftService.cs",
+              "RelativeToolTip": "WebAPI_GiftManagement_BaoTran\\Services\\GiftService.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAwwCQAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T08:32:36.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "D:\\_00.WORK\\GITHUBTAM\\UserManagament-\\WebManagement_Lan2_BaoTran\\WebAPI_GiftManagement_BaoTran\\WebAPI_GiftManagement_BaoTran\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "WebAPI_GiftManagement_BaoTran\\Controllers\\CartController.cs",
+              "ToolTip": "D:\\_00.WORK\\GITHUBTAM\\UserManagament-\\WebManagement_Lan2_BaoTran\\WebAPI_GiftManagement_BaoTran\\WebAPI_GiftManagement_BaoTran\\Controllers\\CartController.cs",
+              "RelativeToolTip": "WebAPI_GiftManagement_BaoTran\\Controllers\\CartController.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAkwEwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T17:40:47.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CartService.cs",
+              "DocumentMoniker": "D:\\_00.WORK\\GITHUBTAM\\UserManagament-\\WebManagement_Lan2_BaoTran\\WebAPI_GiftManagement_BaoTran\\WebAPI_GiftManagement_BaoTran\\Services\\CartService.cs",
+              "RelativeDocumentMoniker": "WebAPI_GiftManagement_BaoTran\\Services\\CartService.cs",
+              "ToolTip": "D:\\_00.WORK\\GITHUBTAM\\UserManagament-\\WebManagement_Lan2_BaoTran\\WebAPI_GiftManagement_BaoTran\\WebAPI_GiftManagement_BaoTran\\Services\\CartService.cs",
+              "RelativeToolTip": "WebAPI_GiftManagement_BaoTran\\Services\\CartService.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAAAF8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T07:04:09.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PermissionController.cs",
+              "DocumentMoniker": "D:\\_00.WORK\\GITHUBTAM\\UserManagament-\\WebManagement_Lan2_BaoTran\\WebAPI_GiftManagement_BaoTran\\WebAPI_GiftManagement_BaoTran\\Controllers\\PermissionController.cs",
+              "RelativeDocumentMoniker": "WebAPI_GiftManagement_BaoTran\\Controllers\\PermissionController.cs",
+              "ToolTip": "D:\\_00.WORK\\GITHUBTAM\\UserManagament-\\WebManagement_Lan2_BaoTran\\WebAPI_GiftManagement_BaoTran\\WebAPI_GiftManagement_BaoTran\\Controllers\\PermissionController.cs",
+              "RelativeToolTip": "WebAPI_GiftManagement_BaoTran\\Controllers\\PermissionController.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAA7wDwAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T17:41:59.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GiftController.cs",
+              "DocumentMoniker": "D:\\_00.WORK\\GITHUBTAM\\UserManagament-\\WebManagement_Lan2_BaoTran\\WebAPI_GiftManagement_BaoTran\\WebAPI_GiftManagement_BaoTran\\Controllers\\GiftController.cs",
+              "RelativeDocumentMoniker": "WebAPI_GiftManagement_BaoTran\\Controllers\\GiftController.cs",
+              "ToolTip": "D:\\_00.WORK\\GITHUBTAM\\UserManagament-\\WebManagement_Lan2_BaoTran\\WebAPI_GiftManagement_BaoTran\\WebAPI_GiftManagement_BaoTran\\Controllers\\GiftController.cs",
+              "RelativeToolTip": "WebAPI_GiftManagement_BaoTran\\Controllers\\GiftController.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAkwEIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T17:41:28.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\_00.WORK\\GITHUBTAM\\UserManagament-\\WebManagement_Lan2_BaoTran\\WebAPI_GiftManagement_BaoTran\\WebAPI_GiftManagement_BaoTran\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "WebAPI_GiftManagement_BaoTran\\Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\_00.WORK\\GITHUBTAM\\UserManagament-\\WebManagement_Lan2_BaoTran\\WebAPI_GiftManagement_BaoTran\\WebAPI_GiftManagement_BaoTran\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "WebAPI_GiftManagement_BaoTran\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAgwDwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T17:40:59.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\_00.WORK\\GITHUBTAM\\UserManagament-\\WebManagement_Lan2_BaoTran\\WebAPI_GiftManagement_BaoTran\\WebAPI_GiftManagement_BaoTran\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "WebAPI_GiftManagement_BaoTran\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\_00.WORK\\GITHUBTAM\\UserManagament-\\WebManagement_Lan2_BaoTran\\WebAPI_GiftManagement_BaoTran\\WebAPI_GiftManagement_BaoTran\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "WebAPI_GiftManagement_BaoTran\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAowFoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T17:40:32.935Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
